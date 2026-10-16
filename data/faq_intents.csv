@@ -1,0 +1,321 @@
+text,intent
+hello,greeting
+hi,greeting
+hey there,greeting
+good morning,greeting
+good afternoon,greeting
+good evening,greeting
+hello assistant,greeting
+hi can you help me,greeting
+are you available,greeting
+I need some help,greeting
+can you assist me,greeting
+I have a question,greeting
+greetings,greeting
+hey chatbot,greeting
+hello there how are you,greeting
+can I ask something,greeting
+I need information,greeting
+please help me,greeting
+start chat,greeting
+good day,greeting
+what courses are offered,course_enquiry
+which programs are available,course_enquiry
+tell me about the courses,course_enquiry
+what degree programs can I choose,course_enquiry
+what branches are available,course_enquiry
+does the college offer computer science,course_enquiry
+do you offer data science,course_enquiry
+what programs does the institution have,course_enquiry
+tell me about the academic programs,course_enquiry
+what courses can students study,course_enquiry
+which specializations are available,course_enquiry
+I want course information,course_enquiry
+what postgraduate programs are offered,course_enquiry
+where can I see the course list,course_enquiry
+what are the available departments,course_enquiry
+can you explain the programs offered,course_enquiry
+what degree options are available,course_enquiry
+show me the course catalogue,course_enquiry
+which courses can I apply for,course_enquiry
+what academic programs do you have,course_enquiry
+where can I find the syllabus,syllabus
+I need the CSE syllabus,syllabus
+how do I get the course curriculum,syllabus
+where is the subject syllabus available,syllabus
+can I download the syllabus,syllabus
+show me the semester syllabus,syllabus
+where can I find subject details,syllabus
+I want the curriculum for my course,syllabus
+how can I see the course structure,syllabus
+where is the academic curriculum published,syllabus
+is the syllabus available online,syllabus
+please tell me where to get the syllabus,syllabus
+I need the first year syllabus,syllabus
+where can I see semester subjects,syllabus
+how do I access the course outline,syllabus
+can you share the syllabus link,syllabus
+where can I check the curriculum,syllabus
+which subjects are included in the course,syllabus
+I need the latest syllabus,syllabus
+how do I find the course structure,syllabus
+how do I apply for admission,admission_process
+what is the admission process,admission_process
+how can I join the college,admission_process
+tell me the steps for admission,admission_process
+how do I apply to this institution,admission_process
+what is the procedure to get admission,admission_process
+I want to enroll in a program,admission_process
+how can I submit an admission application,admission_process
+explain the application process,admission_process
+where do I start the admission process,admission_process
+how can a new student apply,admission_process
+what are the steps to get admitted,admission_process
+I want to know the admission procedure,admission_process
+how do I begin my application,admission_process
+how can I get admission details,admission_process
+what should I do to apply,admission_process
+tell me how to enroll as a student,admission_process
+how do I apply for a course,admission_process
+can you guide me through admissions,admission_process
+what is the process for joining,admission_process
+where is the registration form,registration
+how do I register online,registration
+how do I create an applicant account,registration
+I cannot complete registration,registration
+where can I sign up,registration
+how can I register as a student,registration
+how do I submit my registration,registration
+I need help with enrollment,registration
+how do I fill in the registration form,registration
+where is the student registration portal,registration
+how do I finish online registration,registration
+can you help me register,registration
+I need the registration link,registration
+how can I enroll for the semester,registration
+where can I start signup,registration
+how do I complete the online form,registration
+my registration is incomplete,registration
+how can I create my student profile,registration
+how do I submit registration details,registration
+I want to register for a course,registration
+what documents are needed for admission,admission_documents
+which certificates should I submit,admission_documents
+what documents are required to apply,admission_documents
+do I need my marksheets for admission,admission_documents
+which documents should I upload,admission_documents
+what paperwork is needed for enrollment,admission_documents
+tell me the required admission documents,admission_documents
+do I need an identity proof,admission_documents
+what certificates are required,admission_documents
+what should I bring for document verification,admission_documents
+which documents are needed for registration,admission_documents
+what files must be uploaded with the application,admission_documents
+is a transfer certificate required,admission_documents
+what documents do new students need,admission_documents
+what should I keep ready before applying,admission_documents
+do I need passport size photos,admission_documents
+which academic records should I submit,admission_documents
+what proof is required during admission,admission_documents
+list the documents needed to join,admission_documents
+what are the document requirements,admission_documents
+when is the last date to apply,admission_deadline
+what is the admission deadline,admission_deadline
+when does application close,admission_deadline
+what is the final date for registration,admission_deadline
+when should I submit my application,admission_deadline
+is the admission portal still open,admission_deadline
+what is the deadline for enrollment,admission_deadline
+when is the last date for admission,admission_deadline
+tell me the application closing date,admission_deadline
+when do applications end,admission_deadline
+what is the final date to apply for the course,admission_deadline
+when does registration close,admission_deadline
+are admissions still open,admission_deadline
+when is the application due,admission_deadline
+what date should I apply by,admission_deadline
+is there a deadline for admissions,admission_deadline
+when is the last date to register,admission_deadline
+please tell me the admission schedule,admission_deadline
+what is the cutoff date for applying,admission_deadline
+when do I need to complete the form,admission_deadline
+what are the tuition fees,fees
+tell me the fee structure,fees
+how much does the course cost,fees
+what is the semester fee,fees
+what is the annual fee,fees
+how much are college fees,fees
+where can I see the fee details,fees
+what are the tuition charges,fees
+how much should a student pay,fees
+what is the total course fee,fees
+tell me the hostel fee,fees
+what is the admission fee,fees
+where is the official fee list,fees
+can I get the fee structure,fees
+how much does one semester cost,fees
+what are the fees for this program,fees
+I need information about tuition,fees
+how much is the course fee,fees
+what are the college charges,fees
+please explain the fee details,fees
+how can I pay my fees,fee_payment
+where do I pay tuition,fee_payment
+can I pay fees online,fee_payment
+what payment methods are accepted,fee_payment
+how do I pay the semester fee,fee_payment
+where is the fee payment portal,fee_payment
+how can I pay college charges,fee_payment
+can I pay using online banking,fee_payment
+how do I complete fee payment,fee_payment
+where can I make a tuition payment,fee_payment
+how do I pay the admission fee,fee_payment
+is online fee payment available,fee_payment
+what are the ways to pay fees,fee_payment
+how do I pay my dues,fee_payment
+can I pay my fees through the portal,fee_payment
+where do I submit payment,fee_payment
+how can I pay the college bill,fee_payment
+is installment payment allowed,fee_payment
+who handles fee payments,fee_payment
+how do I confirm my fee payment,fee_payment
+how do I get my fee receipt,fee_receipt
+where can I download the payment receipt,fee_receipt
+I need a copy of my fee receipt,fee_receipt
+how can I get proof of fee payment,fee_receipt
+my fee receipt is missing,fee_receipt
+where is the tuition receipt available,fee_receipt
+how do I download my payment confirmation,fee_receipt
+I paid my fees but have no receipt,fee_receipt
+can I get a duplicate fee receipt,fee_receipt
+where can I find the receipt in the portal,fee_receipt
+how do I check my payment acknowledgement,fee_receipt
+my payment receipt did not generate,fee_receipt
+how can I print the fee receipt,fee_receipt
+where do I see the payment record,fee_receipt
+how do I get a receipt after paying,fee_receipt
+I need the receipt for college fees,fee_receipt
+how to retrieve a lost receipt,fee_receipt
+where can I access my fee invoice,fee_receipt
+how do I verify the fee transaction,fee_receipt
+can the accounts office provide a receipt,fee_receipt
+I cannot log in to the student portal,technical_login
+the login page is not working,technical_login
+my student account will not open,technical_login
+I cannot sign in,technical_login
+the portal rejects my login,technical_login
+I get an error when I log in,technical_login
+I cannot access my account,technical_login
+the website won't let me log in,technical_login
+my login is not working,technical_login
+I am unable to sign into the portal,technical_login
+the student portal says invalid credentials,technical_login
+I cannot enter the student dashboard,technical_login
+login keeps failing,technical_login
+I cannot access the online system,technical_login
+the sign in page is stuck,technical_login
+my account access is not working,technical_login
+the portal login is broken,technical_login
+I am having trouble signing in,technical_login
+I get a login error,technical_login
+why can't I log in,technical_login
+I forgot my password,password_reset
+how do I reset my portal password,password_reset
+I cannot remember my login password,password_reset
+where can I change my password,password_reset
+the password reset link is not working,password_reset
+I need to recover my account password,password_reset
+how can I create a new password,password_reset
+I cannot reset my password,password_reset
+I did not receive the reset email,password_reset
+how do I recover my student account,password_reset
+I lost access because I forgot my password,password_reset
+where is forgot password,password_reset
+can I change my portal password,password_reset
+the password recovery page failed,password_reset
+how do I get a password reset link,password_reset
+I need help changing my password,password_reset
+my reset code is not arriving,password_reset
+how can I regain account access,password_reset
+the password reset email never came,password_reset
+please guide me through password recovery,password_reset
+the website keeps showing an error,technical_issue
+the student portal is not working,technical_issue
+the online form will not submit,technical_issue
+the page is blank,technical_issue
+I cannot upload my document,technical_issue
+the website is very slow,technical_issue
+the application site crashed,technical_issue
+the portal page freezes,technical_issue
+the site says something went wrong,technical_issue
+I cannot download a document,technical_issue
+the system rejected my file,technical_issue
+the website is not responding,technical_issue
+I have a technical problem,technical_issue
+the portal is down,technical_issue
+the page does not load on my phone,technical_issue
+I need IT support,technical_issue
+the application form is stuck,technical_issue
+the website has a bug,technical_issue
+I cannot open the registration page,technical_issue
+where do I report a technical issue,technical_issue
+how can I contact the college,contact_information
+what is the office phone number,contact_information
+where can I find the email address,contact_information
+give me the admissions office contact,contact_information
+how do I reach student services,contact_information
+what is the official website,contact_information
+where is the contact page,contact_information
+I need the department email,contact_information
+how can I contact the accounts office,contact_information
+please share the official contact details,contact_information
+how do I email the administration,contact_information
+where can I find the helpdesk number,contact_information
+what is the college address,contact_information
+I need contact information,contact_information
+how can I reach the academic office,contact_information
+is there an official email,contact_information
+who can I contact about my application,contact_information
+how do I get in touch with staff,contact_information
+where can I find phone details,contact_information
+how can I contact support,contact_information
+what are the office hours,office_hours
+when does the office open,office_hours
+what time does the office close,office_hours
+is the office open today,office_hours
+when can I visit the administration office,office_hours
+tell me the working hours,office_hours
+what are the college office timings,office_hours
+when is student services available,office_hours
+what days is the office open,office_hours
+are offices open on Saturday,office_hours
+when can I meet the academic office,office_hours
+what are the department timings,office_hours
+when is the admissions desk open,office_hours
+what time should I come to the office,office_hours
+are office hours different during holidays,office_hours
+when does student support close,office_hours
+what is the working schedule,office_hours
+what time does administration start work,office_hours
+when does the college office start,office_hours
+are the offices open on weekends,office_hours
+bye,goodbye
+goodbye,goodbye
+see you later,goodbye
+thank you bye,goodbye
+that's all for now,goodbye
+I am done thanks,goodbye
+talk to you later,goodbye
+have a nice day,goodbye
+exit the chat,goodbye
+close this conversation,goodbye
+thanks for your help goodbye,goodbye
+catch you later,goodbye
+I will leave now,goodbye
+end chat please,goodbye
+see you soon,goodbye
+thank you and bye,goodbye
+that is everything,goodbye
+I have no more questions,goodbye
+stop chatting,goodbye
+farewell,goodbye
