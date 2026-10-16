@@ -1,0 +1,26 @@
+{
+  "selected_model": "Logistic Regression",
+  "random_state": 42,
+  "train_samples": 240,
+  "test_samples": 80,
+  "labels": [
+    "admission_deadline",
+    "admission_documents",
+    "admission_process",
+    "contact_information",
+    "course_enquiry",
+    "fee_payment",
+    "fee_receipt",
+    "fees",
+    "goodbye",
+    "greeting",
+    "office_hours",
+    "password_reset",
+    "registration",
+    "syllabus",
+    "technical_issue",
+    "technical_login"
+  ],
+  "dataset_rows": 320,
+  "note": "Metrics are from a held-out split of a small custom dataset. Validate with unseen real user queries before deployment."
+}
